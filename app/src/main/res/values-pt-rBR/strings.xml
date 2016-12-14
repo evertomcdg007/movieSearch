@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes Destaque</string>
+    <string name="the_movie_org">themoviedb.org</string>
+
+    <string name="navigation_drawer_open">Abrir navegação</string>
+    <string name="navigation_drawer_close">Fechar navegação</string>
+
+    <string name="menu_movie_popularity">Filmes populares</string>
+    <string name="menu_movie_accessed">Filmes acessados</string>
+
+    <string name="loading">Loading</string>
+    <string name="accessed">Acessado em:</string>
+    <string name="fail_loading_fields">Falha a carregar os dados. Verifique sua conexão com internet.</string>
+
+</resources>

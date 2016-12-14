@@ -1,8 +1,16 @@
 <resources>
     <string name="app_name">Movie search</string>
+    <string name="the_movie_org">themoviedb.org</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="menu_movie_popularity">Movies popularity</string>
+    <string name="menu_movie_accessed">Movies accessed</string>
+
+    <string name="loading">Loading</string>
+    <string name="accessed">Accessed in:</string>
+
 </resources>
